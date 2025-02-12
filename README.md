@@ -1,8 +1,12 @@
-# helloworld
+# astrbot_plugin_plus_one
 
-AstrBot 插件模板
+AstrBot 群聊加一插件
 
-A template plugin for AstrBot plugin feature
+## 指令
+无
+
+## 配置
+无
 
 # 支持
 
